@@ -2,5 +2,5 @@
 Playing around with Formal Verification
 
 # References
-- [Formal Verification](https://zipcpu.com/tutorial/formal.html)
+- [Zipcpu blog](https://zipcpu.com/tutorial/formal.html)
 - [Autonomous Vision](https://www.autonomousvision.io/blog/formal-verification-symbiyosys)
